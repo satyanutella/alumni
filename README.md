@@ -1,2 +1,2 @@
 # alumni
-This project alumni database management system, deals of fetching, storing and displaying data of alumni in sql database from a online website.
+This project Alumni Database Management System  fetches, stores and displays data of alumnis in SQL database from an online website which is useful for the college and the currently studying students .
